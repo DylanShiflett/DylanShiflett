@@ -1,0 +1,43 @@
+body, html{
+	font-size:30px;
+	font-family:'Open Sans Condensed', sans-serif;
+	background-color:#6E9B9B;
+	text-align:center;
+	
+}
+/*Universal */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+	background-color:#347E7E;
+}
+.title{
+	text-align:center;
+	font-size: 1.5em;
+	
+}
+.padding{
+	padding: 1em;
+}
+/*nav*/
+nav .name{
+	font-size: 2em;
+	text-align:center;	
+}
+/*About*/
+#about img{
+	text-align:center;
+	margin:0 auto;
+}
+#about{
+	background-color:#6F6D90;
+	margin:-1em ;
+}
+#portfolio{
+	background-color: #A7C8A7;
+	margin: 1em;
+}
+#contact{
+	background-color: #CEC194;
+	margin: -1em;
+}
